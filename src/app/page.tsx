@@ -165,7 +165,7 @@ SEM reabertura.
 SEM segunda chance.
 SEM exceções.
 Esse curso é EXCLUSIVO para quem confirma o apoio.
-E já vi muita gente chorando depois because achou que poderia “entrar depois”… e ficou DE FORA.
+E já vi muita gente chorando depois porque achou que poderia “entrar depois”… e ficou DE FORA.
 NÃO DEIXE ISSO ACONTECER COM VOCÊ.
 👉 Faça o Pix simbólico de R$9,90
 👉 Chave Pix (celular): +55 27997017605
