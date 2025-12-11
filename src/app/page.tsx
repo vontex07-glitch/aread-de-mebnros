@@ -18,7 +18,7 @@ export default function Home() {
             </div>
             <div id="image01" className="image-component instance-1 full screen" data-position="center">
               <span className="frame">
-                <img src="https://picsum.photos/seed/crochetBanner/1200/250" alt="Crochet Banner" data-ai-hint="crochet banner"/>
+                <img src="https://i.imgur.com/KlCfFuM.jpeg" alt="Crochet Banner" data-ai-hint="crochet banner"/>
               </span>
             </div>
             <div id="container02" className="container-component instance-2 default">
