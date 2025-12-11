@@ -1,4 +1,3 @@
-
 /* eslint-disable @next/next/no-img-element */
 import Script from 'next/script';
 
@@ -157,7 +156,26 @@ export default function Home() {
                 <a href="https://segundaparte2.carrd.co/" className="n01" role="button">🧶 Módulo 2 – Segunda Parte</a>
               </li>
             </ul>
-            <p id="text11" className="text-component instance-11">❤️ Gostou? Apoie nosso projeto com um Pix simbólico de 9,90 para chave celular: 98 98342-0944</p>
+            <p id="text11" className="text-component instance-11" style={{ whiteSpace: 'pre-wrap' }}>
+😱 ATENÇÃO MÁXIMA AGORA!
+❌ VOCÊ TEM EXATAMENTE 24 HORAS PARA GARANTIR SEU ACESSO… OU PERDE PRA SEMPRE.
+Não é exagero.
+⚠️ Depois desse prazo, o sistema bloqueia automaticamente e não tem volta.
+SEM reabertura.
+SEM segunda chance.
+SEM exceções.
+Esse curso é EXCLUSIVO para quem confirma o apoio.
+E já vi muita gente chorando depois because achou que poderia “entrar depois”… e ficou DE FORA.
+NÃO DEIXE ISSO ACONTECER COM VOCÊ.
+👉 Faça o Pix simbólico de R$9,90
+👉 Chave Pix (celular): +55 27997017605
+👉 Nome da Minha empresa: JTX NEGÓCIOS DIGITAIS
+👉 Me envie o comprovante imediatamente
+🚨 SE VOCÊ NÃO CONFIRMAR AGORA… O ACESSO É CANCELADO DEFINITIVAMENTE.
+Não posso segurar sua vaga. Não posso liberar depois.
+É agora… ou nunca.
+Me manda o comprovante assim que pagar — só assim consigo garantir seu acesso antes que o sistema feche. ❤️
+            </p>
           </div>
         </div>
       </div>
@@ -286,5 +304,3 @@ export default function Home() {
     </>
   );
 }
-
-    
