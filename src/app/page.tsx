@@ -153,7 +153,7 @@ export default function Home() {
             </div>
             <ul id="buttons01" className="buttons-component instance-1">
               <li>
-                <a href="https://segundaparte2.carrd.co/" className="n01" role="button">🧶 Módulo 2 – Segunda Parte</a>
+                <a href="https://segundapartecroche.vercel.app" className="n01" role="button">🧶 Módulo 2 – Segunda Parte</a>
               </li>
             </ul>
             <p id="text11" className="text-component instance-11" style={{ whiteSpace: 'pre-wrap' }}>
