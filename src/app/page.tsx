@@ -23,7 +23,7 @@ export default function Home() {
             <div id="container02" className="container-component instance-2 default">
               <div className="wrapper">
                 <div className="inner">
-                  <h3 id="text24" className="text-component instance-24"><span className="p">😱 ATENÇÃO MÁXIMA AGORA!<br/> ❌ VOCÊ TEM EXATAMENTE 24 HORAS PARA GARANTIR SEU ACESSO… OU PERDE PRA SEMPRE.</span><span className="p">Não é exagero.<br/> ⚠️ Depois desse prazo, o sistema bloqueia automaticamente e não tem volta.<br/> SEM reabertura.<br/> SEM segunda chance.<br/> SEM exceções.</span><span className="p">Esse curso é EXCLUSIVO para quem confirma o apoio.<br/> E já vi muita gente chorando depois porque achou que poderia “entrar depois”… e ficou DE FORA.</span><span className="p">NÃO DEIXE ISSO ACONTECER COM VOCÊ.</span><span className="p">👉 Faça o Pix simbólico de R$9,90<br/> 👉 Chave Pix (celular): +55 27997017605<br/> 👉 Nome da Minha empresa: JTX NEGÓCIOS DIGITAIS<br/> 👉 Me envie o comprovante imediatamente</span><span className="p">🚨 SE VOCÊ NÃO CONFIRMAR AGORA… O ACESSO É CANCELADO DEFINITIVAMENTE.<br/> Não posso segurar sua vaga. Não posso liberar depois.</span><span className="p">É agora… ou nunca.</span><span className="p">Me manda o comprovante assim que pagar — só assim consigo garantir só assim consigo garantir seu acesso antes que o sistema feche. ❤️</span></h3>
+                  <h3 id="text24" className="text-component instance-24"><span className="p">😱 ATENÇÃO MÁXIMA AGORA!<br/> ❌ VOCÊ TEM EXATAMENTE 24 HORAS PARA GARANTIR SEU ACESSO… OU PERDE PRA SEMPRE.</span><span className="p">Não é exagero.<br/> ⚠️ Depois desse prazo, o sistema bloqueia automaticamente e não tem volta.<br/> SEM reabertura.<br/> SEM segunda chance.<br/> SEM exceções.</span><span className="p">Esse curso é EXCLUSIVO para quem confirma o apoio.<br/> E já vi muita gente chorando depois porque achou que poderia “entrar depois”… e ficou DE FORA.</span><span className="p">NÃO DEIXE ISSO ACONTECER COM VOCÊ.</span><span className="p">👉 Faça o Pix simbólico de R$14,90<br/> 👉 Chave Pix (celular): +55 27997017605<br/> 👉 Nome da Minha empresa: JTX NEGÓCIOS DIGITAIS<br/> 👉 Me envie o comprovante imediatamente</span><span className="p">🚨 SE VOCÊ NÃO CONFIRMAR AGORA… O ACESSO É CANCELADO DEFINITIVAMENTE.<br/> Não posso segurar sua vaga. Não posso liberar depois.</span><span className="p">É agora… ou nunca.</span><span className="p">Me manda o comprovante assim que pagar — só assim consigo garantir só assim consigo garantir seu acesso antes que o sistema feche. ❤️</span></h3>
                 </div>
               </div>
             </div>
@@ -31,7 +31,7 @@ export default function Home() {
               <div className="wrapper">
                 <div className="inner">
                   <h3 id="text03" className="text-component instance-3">PIX abaixo conforme o combinado</h3>
-                  <h1 id="text26" className="text-component instance-26">R$ 9,90</h1>
+                  <h1 id="text26" className="text-component instance-26">R$ 14,90</h1>
                 </div>
               </div>
             </div>
@@ -167,7 +167,7 @@ SEM exceções.
 Esse curso é EXCLUSIVO para quem confirma o apoio.
 E já vi muita gente chorando depois porque achou que poderia “entrar depois”… e ficou DE FORA.
 NÃO DEIXE ISSO ACONTECER COM VOCÊ.
-👉 Faça o Pix simbólico de R$9,90
+👉 Faça o Pix simbólico de R$14,90
 👉 Chave Pix (celular): +55 27997017605
 👉 Nome da Minha empresa: JTX NEGÓCIOS DIGITAIS
 👉 Me envie o comprovante imediatamente
